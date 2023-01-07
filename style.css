@@ -1,0 +1,34 @@
+body {
+    background: url('https://www.desicomments.com/wallpapers/wp-content/uploads/2014/12/Ocean-Background-Image.jpg');
+    opacity: 0.56; 
+}
+.main {
+    text-align: center;
+    margin-top: 250px;
+    border: 50px;
+    background-image: linear-gradient(to bottom right, red , blue)
+}
+
+#username {
+    margin: 0.5rem;
+    border-radius: 10px;
+}
+
+#password{
+    margin: 0.5rem;
+    border-radius: 10px;
+}
+
+#footer {
+    margin: 0.5rem;
+}
+
+.mainspan {
+    padding-left: 10px;
+    color: white;
+}
+
+.login {
+    color: #eee3f4;
+    font-weight: 20px;
+}
